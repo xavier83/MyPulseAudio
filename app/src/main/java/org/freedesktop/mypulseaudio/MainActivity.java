@@ -171,8 +171,8 @@ public class MainActivity extends AppCompatActivity
                 if(contents!=null && contents.length > 0) {
                     Log.v("Copying folder ... ", fromFile);
                     res &= copyAssetFolder(assetManager,
-                            fromAssetPath + "/" + file,
-                            toPath + "/" + file);
+                            fromFile,
+                            toFile);
                 }else {
 
 //                    Log.v("pulseaudio", "Copying file ... "+fromFile+" to "+toFile);

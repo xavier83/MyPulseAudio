@@ -2,18 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="3f1dddb555afdb662745644f28495328b27f9e27">
-        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c90cc41b4b77fe7dcd3c76b904900a170d366a2/classes.dex" />
-    </item>
-    <item
         jar="/home/user/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
         <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b07fc32c0e53b93743efd236410eb8b411f7d745/classes.dex" />
+    </item>
+    <item
+        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="13aadffcd0d608aa62bc3efb84e71ee7b130595c">
+        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a27a1dc0ea2d3b33dff1876941e485a5bce63c39/classes.dex" />
+    </item>
+    <item
+        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_1bdfbfe4715e5dad8f2dffe7e0b293bd91dee766/classes.dex" />
+    </item>
+    <item
+        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_fe5575baf84751f8cc14f6bab54bb9c683676d10/classes.dex" />
+    </item>
+    <item
+        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8e4c9fc660266d9f30bcbbe8e6f54c76fd5fc64b/classes.dex" />
+    </item>
+    <item
+        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_43c71aaa5d17cf856b6b9478a1aca6e116422b7c/classes.dex" />
+    </item>
+    <item
+        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="827b3079de8a6dc78d32dc79cacd5a68519446b9">
+        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c90cc41b4b77fe7dcd3c76b904900a170d366a2/classes.dex" />
     </item>
     <item
         jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
@@ -23,25 +58,11 @@
         <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3f28a1127ca11a01a0930a33faa03b8f258d4d6a/classes.dex" />
     </item>
     <item
-        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="4d184212bd3cffca42ddee7624df2b397ee3ac8f">
-        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a27a1dc0ea2d3b33dff1876941e485a5bce63c39/classes.dex" />
-    </item>
-    <item
         jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
         <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d1c9f8a78aa0b367556d92f621bc945d7e10fd3e/classes.dex" />
-    </item>
-    <item
-        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_1bdfbfe4715e5dad8f2dffe7e0b293bd91dee766/classes.dex" />
     </item>
     <item
         jar="/home/user/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
@@ -58,32 +79,11 @@
         <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_2253beedb93f759b121392d35b332c9ae9cf9132/classes.dex" />
     </item>
     <item
-        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_fe5575baf84751f8cc14f6bab54bb9c683676d10/classes.dex" />
-    </item>
-    <item
         jar="/home/user/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
         <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_221ecef199c9ab4102a5a17135d254183c258203/classes.dex" />
-    </item>
-    <item
-        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8e4c9fc660266d9f30bcbbe8e6f54c76fd5fc64b/classes.dex" />
-    </item>
-    <item
-        jar="/home/user/Fun/MyPulseAudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/user/Fun/MyPulseAudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_43c71aaa5d17cf856b6b9478a1aca6e116422b7c/classes.dex" />
     </item>
 
 </items>
